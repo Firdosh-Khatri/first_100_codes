@@ -1,0 +1,16 @@
+a= input("Enter your name ")
+print("My name is ", a)
+
+x= int(input("Enter the 1st number "))
+y= int(input("Enter the 2nd number "))
+print(x+y)
+
+a= int(input("Enter the 1st number "))
+b= int(input("Enter the 2nd number "))
+print("The value of", a, "+", b, "=", a+b)
+print("The value of", a, "-", b, "=", a-b)
+print("The value of", a, "*", b, "=", a*b)
+print("The value of", a, "/", b, "=", a/b)
+print("The value of", a, "//", b, "=", a//b)
+print("The value of", a, "%", b, "=", a%b)
+print("The value of", a, "**", b, "=", a**b)
